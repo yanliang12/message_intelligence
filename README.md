@@ -32,10 +32,10 @@ output: http://54.208.212.30:3749/browser/
 
 ```bash
 docker run -it \
--p 0.0.0.0:6788:6788 \
+-p 0.0.0.0:3677:3677 \
 -p 0.0.0.0:3749:3749 \
--p 0.0.0.0:3074:6894 \
-jingyanwang1/message_intelligence:2.0.2 &
+-p 0.0.0.0:3117:3117 \
+jingyanwang1/message_intelligence:2.0.3 &
 ```
 
 input: http://34.66.57.96:3074/
