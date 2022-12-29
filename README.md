@@ -37,6 +37,6 @@ docker run -it \
 jingyanwang1/message_intelligence:2.0.2 &
 
 
-[input](http://34.66.57.96:3067/)
+input: http://34.66.57.96:3067/
 
-http://34.66.57.96:3749/browser/
+output: http://34.66.57.96:3749/browser/
