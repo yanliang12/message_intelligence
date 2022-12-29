@@ -16,3 +16,10 @@ http://localhost:6894/
 # output interface 
 
 http://localhost:3749/browser/
+
+
+# at aws
+
+input: http://54.208.212.30:6894/ 
+
+output: http://54.208.212.30:3749/browser/
