@@ -1,6 +1,4 @@
-# start service
-
-win
+# win
 
 ```bash
 start docker run -it ^
@@ -10,18 +8,9 @@ start docker run -it ^
 jingyanwang1/message_intelligence:2.0.2
 ```
 
-linux
+input interface: http://localhost:6894/
 
-
-
-# input interface
-
-http://localhost:6894/
-
-
-# output interface 
-
-http://localhost:3749/browser/
+output interface: http://localhost:3749/browser/
 
 
 # aws
