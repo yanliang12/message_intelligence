@@ -30,7 +30,7 @@ output: http://34.66.57.96:3749/browser/
 # win
 
 ```bash
-start docker run -it `
+docker run -it `
 -p 0.0.0.0:6788:6788 `
 -p 0.0.0.0:3749:3749 `
 -p 0.0.0.0:6894:6894 `
