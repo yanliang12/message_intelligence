@@ -10,10 +10,14 @@ jingyanwang1/message_intelligence:2.0.5
 
 # input interface: 
 
-<img src="input.png" width="350" title="input messages">
-
 http://localhost:3117
+
+<img src="input.png" width="500" title="input messages">
+
 
 # output interface: 
 
 http://localhost:3749/
+
+<img src="output.png" width="500" title="input messages">
+
