@@ -8,6 +8,9 @@ docker run -it `
 jingyanwang1/message_intelligence:2.0.5 
 ```
 
+<img src="service.png" width="800" title="service">
+
+
 # input interface: 
 
 http://localhost:3117
@@ -19,5 +22,4 @@ http://localhost:3117
 
 http://localhost:3749/
 
-<img src="output.png" width="800" title="input messages">
-
+<img src="output.png" width="800" title="outpug graph">
