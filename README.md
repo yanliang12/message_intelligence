@@ -12,12 +12,12 @@ jingyanwang1/message_intelligence:2.0.5
 
 http://localhost:3117
 
-<img src="input.png" width="500" title="input messages">
+<img src="input.png" width="800" title="input messages">
 
 
 # output interface: 
 
 http://localhost:3749/
 
-<img src="output.png" width="500" title="input messages">
+<img src="output.png" width="800" title="input messages">
 
