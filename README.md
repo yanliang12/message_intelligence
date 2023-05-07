@@ -1,5 +1,7 @@
 # start docker instance
 
+open a command prompt and copy and paste the following command
+
 ```bash
 docker run -it ^
 -p 0.0.0.0:3677:3677 ^
