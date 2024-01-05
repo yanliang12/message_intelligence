@@ -1,7 +1,5 @@
 # message intelligence platform
 
-https://www.nytimes.com/2019/12/22/us/politics/totok-app-uae.html
-
 <img src="WX20201123-232104@2x.png" height="250">
 
 # start docker instance
