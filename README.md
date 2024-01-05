@@ -1,10 +1,8 @@
 # message intelligence platform
 
-```
-One who listed his title as “data science team lead” said he had created a “message intelligence platform” that reads billions of messages to answer four questions: “who you are, what you do, how do you think, and what is your relationship with others.”
+https://www.nytimes.com/2019/12/22/us/politics/totok-app-uae.html
 
-“With the answers to these four questions, we know everything about one person,”
-```
+<img src="WX20201123-232104@2x.png" height="250">
 
 # start docker instance
 
